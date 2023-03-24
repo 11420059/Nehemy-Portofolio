@@ -1,0 +1,61 @@
+.background{
+    background-color: #E8F4FF;;
+}
+.register-container{
+    margin-top: 7%;
+    margin-bottom: 1%;
+    background: #CCE2F6;
+    margin: center;
+    padding: 5%;
+    border-radius: 0.8rem;
+    box-shadow: 0 5px 8px 0 rgba(255, 255, 255, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.register-form-1{
+    padding: 0%;
+    margin: center;
+    background: #CCE2F6;
+    padding: 5%;
+}
+.register-form-1 h3{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 20;
+    
+}
+.register-container form{
+    padding: 10%;
+    
+}
+.register-form-1 .form-control{
+    border-radius: 0.8rem;
+    height: 50px;
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 0.8rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.register-form-1 .btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background: #009A3F;
+    border-radius: 20px;
+}
+.register-form-1 .ForgetPwd{
+   
+    text-align: right;
+    color: #313131;
+    font-weight: 400;
+    text-decoration: none;
+    
+}
+.register-form-1 .link-danger{
+    color: #DFCBC2;
+    font-weight: 600;
+    text-decoration: none;
+    
+}
